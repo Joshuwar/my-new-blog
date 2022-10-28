@@ -22,8 +22,9 @@ title: Research log yo
 email: josh.u.war@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Research & experiment log
-baseurl: "/my-new-blog" # the subpath of your site, e.g. /blog
-url: "https://joshuwar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+domain: joshuwar.github.io
+baseurl: /my-new-blog # the subpath of your site, e.g. /blog
+url: https://joshuwar.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jshbrdly
 github_username:  Joshuwar
 
