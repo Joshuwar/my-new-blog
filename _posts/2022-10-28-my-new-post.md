@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Get Ready Yo!"
 date:   2022-10-28 13:03:14 +0800
 categories: update
